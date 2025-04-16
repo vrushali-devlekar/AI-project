@@ -10,6 +10,14 @@
 - 🧠 Modular `Jarvis` logic for easy expansion
 - 📦 Environment variables for secure API integration
 - 🎨 GUI built with Kivy for cross-platform desktop support
+- Uses `.env` for secure API keys and config
 
 ---
 <img width="960" alt="my" src="https://github.com/user-attachments/assets/d8583abb-6b18-48fb-a8c5-b14fba2fed8e" />
+
+
+> Create 🧩 .env file
+EXAMPLE_API_KEY=your_api_key_here
+>👩‍💻 Author
+Pipper AI
+Crafted with ❤️ using Python + Kivy by Vrushali Devlekar
