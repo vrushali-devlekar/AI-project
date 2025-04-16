@@ -18,6 +18,8 @@
 
 > Create 🧩 .env file
 EXAMPLE_API_KEY=your_api_key_here
+
+
 >👩‍💻 Author
 Pipper AI
 Crafted with ❤️ using Python + Kivy by Vrushali Devlekar
