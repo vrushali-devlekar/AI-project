@@ -16,7 +16,7 @@
 <img width="960" alt="my" src="https://github.com/user-attachments/assets/d8583abb-6b18-48fb-a8c5-b14fba2fed8e" />
 
 
-> Create 🧩 .env file
+## Create 🧩 .env file
 EXAMPLE_API_KEY=your_api_key_here
 
 
